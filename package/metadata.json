@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Bhashkar Gupta"
+            }
+        ],
+        "Category": "Mail",
+        "Description": "Gmail Widget using Plasma 5",
+        "Icon": "search-symbolic",
+        "Id": "Gmail-Plasma-5-Applet",
+        "License": "BSD 3.0",
+        "Name": "Gmail Plasma-5 Applet",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/BhashkarGupta/Gmail-Plasma-5-Applet"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-StandAloneApp": true
+}

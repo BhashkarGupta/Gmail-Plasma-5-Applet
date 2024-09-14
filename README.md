@@ -1,1 +1,9 @@
-# Gmail-Plasma-5-Applet
+
+Install
+
+`plasmapkg2 --install ./package`
+
+To remove
+
+`plasmapkg2 --remove ./package`
+
